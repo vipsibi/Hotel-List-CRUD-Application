@@ -13,6 +13,20 @@ HotelHub is a full-stack hotel discovery and management application. It includes
 - PostgreSQL persistence with automatic table creation and starter data
 - Mock API mode for running the frontend without a database
 
+## Screenshots
+
+### Home
+
+![HotelHub Home page](documentimage/page%201.png)
+
+### Manage Hotels
+
+![HotelHub Manage Hotels page](documentimage/page%202.png)
+
+### Add Hotel
+
+![HotelHub Add Hotel page](documentimage/page%203.png)
+
 ## Tech stack
 
 - **Frontend:** React, Vite, Redux Toolkit, React Router, React Leaflet
